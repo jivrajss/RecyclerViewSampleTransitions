@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\XYZTouristAttractions1\Shared\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bab1c5fceb7b67deaf04dc84f84846e5da5f638d">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-d3e02764f74e525c38c146e485d13e306010fa71.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\glide-3.6.1-8c8d4065255c0e25a03d9d930be1d90062d209bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-89c6fdcc6d3db8ac8317fac50accc3fa5a05ad0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-f5722f1dfbd38d57252f36efd5f1ec210406570f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-d5ad0dcab0fa01c5845b22df75ec300b570207d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-be15765c58f9002f7a5c3c2f66a581581177f3a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-0c01c1f500e57a7c914b6c9d3e7d7470d507c903.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-08cf797b3fd7d876d467f5f50dcdf01897cccbcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-cf3e7d6bd6534afea56395ed1f1bbcf1d18174ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-b2ef84077960fa500f4c270c74427d4f30831c35.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-c10ff4d7ab4b9cbeecaaea8343a4f6cb4fd4c005.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-16944868c14bc42607599b6eb307e8daf9f4697a.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-c905a70d180d78c219f9c79600bdc5743e50d5b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-cff562989b4254d78c31e52d42884a05e03177e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-4f9d8d2e893ad88080729bafe3753186b0cc4eec.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions1\Application\build\intermediates\pre-dexed\debug\classes-8adec6a7201fb860108eb87856f83d541f4cd2fa.jar" />
+    </item>
+
+</items>
